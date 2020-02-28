@@ -1,10 +1,11 @@
 package coursework;
 
+import model.LunarParameters;
+import model.LunarParameters.DataSet;
+import model.NeuralNetwork;
+
 import java.lang.reflect.Field;
 import java.util.Random;
-import model.LunarParameters;
-import model.NeuralNetwork;
-import model.LunarParameters.DataSet;
 
 public class Parameters {
  
@@ -13,20 +14,20 @@ public class Parameters {
 	 * You may add other Parameters as required to this class 
 	 * 
 	 */
-	private static int numHidden = 20;
+	private static int numHidden = 12;
 	private static int numGenes = calculateNumGenes();
 	public static double minGene = -3; // specifies minimum and maximum weight values
 	public static double maxGene = +3;
 		
-	public static int popSize = 100;
-	public static int maxEvaluations = 10000;
+	public static int popSize = 150;
+	public static int maxEvaluations = 20000;
 	
 	// Parameters for mutation 
 	// Rate = probability of changing a gene
 	// Change = the maximum +/- adjustment to the gene value
 	public static double mutateRate = 0.15; // mutation rate for mutation operator
 	public static double mutateChange = 0.1; // delta change for mutation operator
-	public static int tournamentSize = 25;
+	public static int tournamentSize = 30;
 	//Random number generator used throughout the application
 	public static long seed = System.currentTimeMillis();
 	public static Random random = new Random(seed);

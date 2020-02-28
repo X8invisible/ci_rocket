@@ -1,11 +1,10 @@
 package coursework;
 
-import java.util.ArrayList;
-
 import model.Fitness;
 import model.Individual;
-import model.LunarParameters.DataSet;
 import model.NeuralNetwork;
+
+import java.util.ArrayList;
 
 /**
  * Implements a basic Evolutionary Algorithm to train a Neural Network
@@ -206,15 +205,16 @@ public class ExampleEvolutionaryAlgorithm extends NeuralNetwork {
 
 	@Override
 	public double activationFunction(double x) {
-		if (x < -20.0) {
-			return -1.0;
-		} else if (x > 20.0) {
-			return 1.0;
-		}
-		return Math.tanh(x);
-//		if( x >= 0 )
-//			return x;
-//		else
-//			return 0;
+//		if (x < -20.0) {
+//			return -1.0;
+//		} else if (x > 20.0) {
+//			return 1.0;
+//		}
+//		return Math.tanh(x);
+////		if( x >= 0 )
+////			return x;
+////		else
+////			return -1;
+		return x;
 	}
 }

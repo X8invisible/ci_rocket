@@ -3,7 +3,7 @@
   <component name="EclipseModuleManager">
     <libelement value="jar://$MODULE_DIR$/lib/jcommon-1.0.23.jar!/" />
     <libelement value="jar://$MODULE_DIR$/lib/jfreechart-1.0.19.jar!/" />
-    <libelement value="jar://$MODULE_DIR$/lib/LunarCW2018.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/LunarCW2020.jar!/" />
     <src_description expected_position="1">
       <src_folder value="file://$MODULE_DIR$/src" expected_position="1" />
     </src_description>
@@ -35,9 +35,9 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="LunarCW2018.jar">
+      <library name="LunarCW2020.jar">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/LunarCW2018.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/LunarCW2020.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
