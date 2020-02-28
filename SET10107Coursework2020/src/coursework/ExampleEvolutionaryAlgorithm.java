@@ -211,10 +211,10 @@ public class ExampleEvolutionaryAlgorithm extends NeuralNetwork {
 //			return 1.0;
 //		}
 //		return Math.tanh(x);
-////		if( x >= 0 )
-////			return x;
-////		else
-////			return -1;
+//		if( x >= 0 )
+//			return x;
+//		else
+//			return -1;
 		return x;
 	}
 }
