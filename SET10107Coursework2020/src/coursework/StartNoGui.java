@@ -23,10 +23,10 @@ public class StartNoGui {
 		 * Note you should use a maximum of 20,0000 evaluations for your experiments 
 		 */
 		Parameters.maxEvaluations = 20000; // Used to terminate the EA after this many generations
-		Parameters.popSize = 200; // Population Size
+		Parameters.popSize = 40; // Population Size
 
 		//number of hidden nodes in the neural network
-		Parameters.setHidden(5);
+		Parameters.setHidden(3);
 		
 		//Set the data set for training 
 		Parameters.setDataSet(DataSet.Training);

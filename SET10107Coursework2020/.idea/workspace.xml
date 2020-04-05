@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2af4cd3-2a54-4ce6-b72e-f1b5b1704466" name="Default Changelist" comment="" />
+    <list default="true" id="c2af4cd3-2a54-4ce6-b72e-f1b5b1704466" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coursework/ExampleEvolutionaryAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coursework/ExampleEvolutionaryAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coursework/Parameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coursework/Parameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coursework/StartNoGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coursework/StartNoGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/winnerwinner-5.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -14,15 +24,19 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectId" id="1YRHxh4kjekosefSLpLBRdFYaZ9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -31,7 +45,7 @@
       <recent name="C:\Andrei\SET10107Coursework2020\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StartNoGui">
     <configuration name="StartGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coursework.StartGui" />
       <module name="SET10107LunarLanderCourseworkStudentVersion" />
@@ -45,8 +59,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StartNoGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coursework.StartNoGui" />
+      <module name="SET10107LunarLanderCourseworkStudentVersion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coursework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StartNoGui" />
         <item itemvalue="Application.StartGui" />
       </list>
     </recent_temporary>
@@ -80,27 +108,43 @@
       <screen x="2560" y="0" width="2560" height="1400" />
     </state>
     <state x="3365" y="442" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1582898760597" />
-    <state width="2517" height="266" key="GridCell.Tab.0.bottom" timestamp="1582905271680">
-      <screen x="2560" y="0" width="2560" height="1400" />
+    <state width="1815" height="254" key="GridCell.Tab.0.bottom" timestamp="1583513645253">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583411251205" />
     <state width="2517" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1582905271680" />
-    <state width="2517" height="266" key="GridCell.Tab.0.center" timestamp="1582905271680">
-      <screen x="2560" y="0" width="2560" height="1400" />
+    <state width="1943" height="318" key="GridCell.Tab.0.bottom/62.0.1858.1080/-343.-1440.1986.1152@-343.-1440.1986.1152" timestamp="1583498426085" />
+    <state width="1815" height="254" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1583513645253" />
+    <state width="1815" height="254" key="GridCell.Tab.0.center" timestamp="1583513645253">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583411251205" />
     <state width="2517" height="266" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1582905271680" />
-    <state width="2517" height="266" key="GridCell.Tab.0.left" timestamp="1582905271680">
-      <screen x="2560" y="0" width="2560" height="1400" />
+    <state width="1943" height="318" key="GridCell.Tab.0.center/62.0.1858.1080/-343.-1440.1986.1152@-343.-1440.1986.1152" timestamp="1583498426085" />
+    <state width="1815" height="254" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1583513645253" />
+    <state width="1815" height="254" key="GridCell.Tab.0.left" timestamp="1583513645253">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583411251205" />
     <state width="2517" height="266" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1582905271680" />
-    <state width="2517" height="266" key="GridCell.Tab.0.right" timestamp="1582905271680">
-      <screen x="2560" y="0" width="2560" height="1400" />
+    <state width="1943" height="318" key="GridCell.Tab.0.left/62.0.1858.1080/-343.-1440.1986.1152@-343.-1440.1986.1152" timestamp="1583498426084" />
+    <state width="1815" height="254" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1583513645253" />
+    <state width="1815" height="254" key="GridCell.Tab.0.right" timestamp="1583513645253">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583411251205" />
     <state width="2517" height="266" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1582905271680" />
+    <state width="1943" height="318" key="GridCell.Tab.0.right/62.0.1858.1080/-343.-1440.1986.1152@-343.-1440.1986.1152" timestamp="1583498426085" />
+    <state width="1815" height="254" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1583513645253" />
     <state x="3541" y="523" key="com.intellij.ide.util.TipDialog" timestamp="1582902644667">
       <screen x="2560" y="0" width="2560" height="1400" />
     </state>
     <state x="981" y="523" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1582898738762" />
     <state x="3541" y="523" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1582902644667" />
+    <state x="307" y="-451" key="run.anything.popup" timestamp="1583498109139">
+      <screen x="-343" y="-1440" width="1986" height="1152" />
+    </state>
+    <state x="307" y="-451" key="run.anything.popup/62.0.1858.1080/-343.-1440.1986.1152@-343.-1440.1986.1152" timestamp="1583498109139" />
   </component>
   <component name="masterDetails">
     <states>

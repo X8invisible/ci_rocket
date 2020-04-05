@@ -14,11 +14,12 @@ public class Parameters {
 	 * You may add other Parameters as required to this class 
 	 * 
 	 */
-	private static int numHidden = 5;
+	private static int numHidden = 3;
 	private static int numGenes = calculateNumGenes();
 	public static double minGene = -3; // specifies minimum and maximum weight values
 	public static double maxGene = +3;
-		
+	//1 for single point cross, 2 for multi-point cross, 3 for uniform cross
+	public static int crossoverMode = 1;
 	public static int popSize = 40;
 	public static int maxEvaluations = 20000;
 	
